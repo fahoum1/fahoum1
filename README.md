@@ -1,4 +1,7 @@
 ## Hi there 👋
+🌱 First time Github user
+📫 Only analog correspondence please
+⚡ Find me on the tennis court
 
 <!--
 **fahoum1/fahoum1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
